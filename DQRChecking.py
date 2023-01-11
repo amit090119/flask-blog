@@ -8,6 +8,7 @@ MID = 'UATMERCHANT101'
 saltkey = '8289e078-be0b-484d-ae60-052f117f8deb'
 keyindex = '1'
 
+#function
 def qrInit(txnid):
 
 
